@@ -94,3 +94,8 @@ Si deseas contribuir a Distri-Rivera, aquí tienes algunas pautas:
    ```bash
    git push origin feature/nuevaCaracteristica
    ```
+5. **Integrantes** del proyecto:
+   1. *Michael Papamija*
+   2. *Dario Ruiz*
+   3. *Isabel Ceron*
+   4. *Jenser Ordoñez*
